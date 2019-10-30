@@ -1,0 +1,18 @@
+{
+    "name": "AIMVPBotDemo-Complete",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages/",
+            "id": "c3b29700-eddc-11e9-af5a-3b9ba2452a56",
+            "name": "http://localhost:3978/api/messages/"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Temp\\AI\\Book\\AIMVPBotDemo-src - Complete\\AIMVPBotDemo-Complete.bot"
+}
